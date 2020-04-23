@@ -22,8 +22,13 @@ title: Receptiviti API Docs
 email: your-email@example.com
 description:  # this means to ignore newlines until "baseurl:"
   The place for all Receptiviti's API-related content
+<<<<<<< Updated upstream
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/Receptiviti/api-docs" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+baseurl: "api-docs" # the subpath of your site, e.g. /blog
+url: "https://receptiviti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> Stashed changes
 #twitter_username: jekyllrb
 #github_username:  jekyll
 remote_theme: pmarsceill/just-the-docs
